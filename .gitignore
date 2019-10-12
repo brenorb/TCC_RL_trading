@@ -1,0 +1,13 @@
+# data
+*.csv
+*.mat
+*.txt
+
+# Results
+CMIG4/
+DJI/
+IBOV/
+VALE5/
+WDON/
+PETR4/
+DOLFUT/
